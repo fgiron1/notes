@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "25e6c78799d1c86c",
+        "id": "d0108331ade24847",
         "type": "tabs",
         "children": [
           {
-            "id": "0af497424314b1f5",
+            "id": "818d63fbb8df051b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dev/Rust/Sistema de módulos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dev/Rust/Sistema de módulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +113,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0af497424314b1f5",
+  "active": "818d63fbb8df051b",
   "lastOpenFiles": [
+    "Chat/Websocket.md",
+    "dev/Rust/Sistema de módulos.md",
+    "Chat",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Rust/Sistema de módulos.md",
     "Rust/Referencias y mutabilidad.md",
     "Proyectos/Chat/ROADMAP.md",
@@ -120,7 +130,6 @@
     "Golang/Referencias.md",
     "Golang/Estructura de proyecto 13-7-2022.md",
     "Golang",
-    "dev/Rust/Sistema de módulos.md",
     "dev/Rust",
     "dev",
     "Galgus/Credenciales.md",

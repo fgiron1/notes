@@ -1,4 +1,4 @@
-Rust no se entera automáticamente ni pretende inferir una estructura de módulos. Se lo tienes que indicar manualmente.
+Rust no se entera automáticamente ni pretende inferir una estructura de módulos. Se lo tienes que indicar manualmente. Independientemente de la estructura de ficheros de nuestro proyecto, el único crate que Rust ve a proiri es main. Desde main se podrán conocer el resto de módulos, actuando este como punto de entrada.
 
 Cuando importas un módulo escribiendo:
 
@@ -45,3 +45,7 @@ fn main() {
 	sumar(2, 3);
 }
 ```
+
+Otra forma de hacer todo esto es:
+
+Se crea un fichero, en la raíz, que se llame igual que el directorio que contiene los módulos (como un intermediaro entre los módulos en un directorio, y main) y dentro se importa cada módulo.
