@@ -11,12 +11,8 @@
             "id": "0af497424314b1f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Sistema de módulos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Sistema de módulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +110,19 @@
   },
   "active": "0af497424314b1f5",
   "lastOpenFiles": [
-    "Rust/Referencias y mutabilidad.md",
-    "Proyectos/Chat/Funcionamiento websockets.md",
     "Rust/Sistema de módulos.md",
-    "Proyectos/Chat/ROADMAP CHAT.md",
+    "Rust/Referencias y mutabilidad.md",
     "Proyectos/Chat/ROADMAP.md",
+    "Proyectos/Chat/ROADMAP CHAT.md",
+    "Proyectos/Chat/Funcionamiento websockets.md",
+    "Proyectos/Chat",
+    "Proyectos",
     "Golang/Referencias.md",
     "Golang/Estructura de proyecto 13-7-2022.md",
+    "Golang",
+    "dev/Rust/Sistema de módulos.md",
+    "dev/Rust",
+    "dev",
     "Galgus/Credenciales.md",
     "Galgus/Pendiente.md",
     "2022-06-29.md"
