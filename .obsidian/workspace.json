@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "dev/Rust/Sistema de módulos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -116,10 +116,10 @@
   "active": "818d63fbb8df051b",
   "lastOpenFiles": [
     "Chat/Websocket.md",
+    "Untitled.canvas",
     "dev/Rust/Sistema de módulos.md",
     "Chat",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Rust/Sistema de módulos.md",
     "Rust/Referencias y mutabilidad.md",
     "Proyectos/Chat/ROADMAP.md",
