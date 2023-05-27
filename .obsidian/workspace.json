@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/Rust/Sistema de módulos.md",
-                "mode": "preview",
+                "file": "dev/Seguridad/Encryption.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/Rust/Sistema de módulos.md",
+                "file": "dev/Seguridad/Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,17 @@
   },
   "active": "818d63fbb8df051b",
   "lastOpenFiles": [
+    "Pasted image 20230527225354.png",
+    "Chat/Secure password storage.md",
+    "dev/Seguridad/Encryption.md",
+    "dev/Seguridad/Attack trees.md",
+    "Pasted image 20230527221415.png",
+    "Pasted image 20230527214808.png",
+    "dev/Seguridad",
+    "Chat/Secure password transmission.md",
     "Chat/Websocket.md",
-    "Untitled.canvas",
     "dev/Rust/Sistema de módulos.md",
+    "Untitled.canvas",
     "Chat",
     "Untitled 1.canvas",
     "Rust/Sistema de módulos.md",
