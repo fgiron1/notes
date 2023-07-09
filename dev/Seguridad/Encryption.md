@@ -1,4 +1,5 @@
-![[Pasted image 20230527221415.png]]
+
+![[kerckhoff_principle.png]]
 
 Existen diferentes tipos de ataque en el tipico esquema de comunicación Alice-Bob con Eve haciendo eavesdropping en su comunicación. Para demostrar que un mensaje ha sido encriptado por una cierta llave se usa un sistema (o código) MAC. Básicamente, son 3 cosas:
 
@@ -12,14 +13,15 @@ Esto otorga dos propiedades:
 
 Son dos propiedades derivadas de que la firma es exclusiva al mensaje (integridad) y a la llave (autenticidad). La autenticidad del mensaje, de todas formas, será garantizada mientras se pueda afirmar que NADIE más conoce la llave usada para firmar el mensaje (se presupone que Bob la ha recibido a través de un canal seguro).
 
-Para conseguir más garantías y prevenir que:
+Para conseguir más garantías como:
 
 1. Eve reenvíe a Bob antiguos mensajes, junto con su firma, porque está escuchando en el canal, aunque no tenga la llave generada por Alice
-2. Borre los mensajes y evite que le llegen a bob
+2. Saber si Eve ha eliminado algún mensaje de camino a Bob
 
 Se implementa una numbering scheme para los mensajes, es decir, se cuentan los mensajes enviados y se incluye esa información en el propio mensaje.
 
 Nota final:
 
-![[Pasted image 20230527225354.png]]
+![[eve_will_change_ciphertext.png]]
+
 
